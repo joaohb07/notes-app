@@ -6,7 +6,7 @@
 
 This app is built using [**Node.js**](https://nodejs.org/en/download/) make sure you have this installed before running.
 
-Clone `main` branch from this [repo](https://nodejs.org/en/download/).
+Clone `main` branch from [***Notes App repo***](https://nodejs.org/en/download/).
 
 Access `notes-app` folder:
 
