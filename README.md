@@ -57,8 +57,8 @@ node app.js remove --title="<your-title>"
 
 To read a note just run the following command:
 
-```bash title="Remove a Note"
-node app.js remove --title="<your-title>"
+```bash title="Read a Note"
+node app.js read --title="<your-title>"
 # ! Important ! You have to set title or else it won't display any note
 ```
 
