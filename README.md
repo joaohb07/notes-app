@@ -6,7 +6,7 @@
 
 ## Documentation
 
-Check out my official [documentation]().
+Check out my official [documentation](https://joaohb07.github.io/documentation/web/notes_app/notes_app/).
 
 ## Installation
 
