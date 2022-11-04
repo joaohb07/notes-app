@@ -37,11 +37,6 @@ yargs.command({
     },
     handler(argv) {
         const removed = notes.rmNote(argv.title)
-        if(removed){
-            console.log(chalk.green.inverse.underline.bold('\nNote %s Removed!\n'), argv.title)
-        } else {
-            console.log(chalk.red.inverse.underline.bold('\nNote %s not found!\n'), argv.title)
-        }
     }
 })
 

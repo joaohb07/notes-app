@@ -20,6 +20,13 @@ Install the package with its dependencies (You must execute this in `notes-app` 
 npm install
 ```
 
+### Packages Used
+
+1. [Chalk](https://www.npmjs.com/package/chalk) - Format output
+2. [Yargs](https://www.npmjs.com/package/yargs) - Parse Arguments
+3. [Mocha](https://mochajs.org/) - Unit Tests
+4. [Chai](https://www.chaijs.com/) - Unit Tests
+
 ## Usage
 
 ### Add a Note
@@ -56,6 +63,14 @@ To list notes just run the following command:
 ```bash title="List Notes"
 node app.js list 
 # This will list all your notes stored in notes.json file
+```
+
+### Testing
+
+To execute Unit Tests run the following command:
+
+```bash title="Unit Tests"
+npm test
 ```
 
 ### Help
