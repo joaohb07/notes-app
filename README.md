@@ -2,6 +2,12 @@
 
 > A simple Notes App using Node.js
 
+[![Node.js CI](https://github.com/joaohb07/notes-app/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/joaohb07/notes-app/actions/workflows/unit-tests.yml)
+
+## Documentation
+
+Check out my official [documentation]().
+
 ## Installation
 
 This app is built using [**Node.js**](https://nodejs.org/en/download/) make sure you have this installed before running.
@@ -99,7 +105,7 @@ You can also look inside each argument, `add, remove, list, read` by running the
 
 ```bash title="Help argument"
 node app.js add --help # change add to remove, list or read to check each argument info
-````
+```
 
 Output should be something like this:
 
